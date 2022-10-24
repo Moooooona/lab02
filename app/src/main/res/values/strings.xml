@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab02</string>
+
+   <string-array name="functionCounter">
+        <item>WordsCounting</item>
+        <item>CharsCounting</item>
+    </string-array>
+    <string name="btn_lable">Count</string>
+    <string name="chars_selection">Chars</string>
+</resources>
